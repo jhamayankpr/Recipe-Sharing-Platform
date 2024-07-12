@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish with eggs, cheese, and pancetta."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "description": "Creamy Indian curry dish with grilled chicken in a spiced tomato sauce."
+    },
+    {
+      "id":3,
+      "title": "Rajma Chawal",
+      "description": "Classic Indian Nutritious item served with salad."
+    }
+  ]
+}
